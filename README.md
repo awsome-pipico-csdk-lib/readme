@@ -5,3 +5,5 @@ https://forums.raspberrypi.com/viewtopic.php?t=305620
 https://rt-thread.medium.com/get-raspberry-pi-pico-running-on-rt-thread-rtos-with-an-opensource-light-versatile-graphics-library-c1f708882bff
 ## Pico Arduino
 https://arduino-pico.readthedocs.io/en/latest/install.html
+## Setup Pico SDK ON Ubuntu (***)
+https://lindevs.com/set-up-raspberry-pi-pico-sdk-on-ubuntu
